@@ -4,6 +4,8 @@
 #include<Windows.h>
 
 
+//ya casi termino e tutorial de github con visual y este es un odigo de ejemplo//
+
 //--PARA QUE ESTE PTOYECTO JALE TIENES QUE: configuracion > propiedades>character set > cambiar de unicode a mulibit//
 //esto hara que sea incluso mas facil de trabajar sin las conversiones de winapi//
 
